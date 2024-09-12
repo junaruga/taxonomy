@@ -1,0 +1,24 @@
+version: 2
+task_description: 'Teach the model how to recognize positive words.'
+created_by: junaruga
+seed_examples:
+  - question: 'Which word is more positive between "abundant" and "excessive"?'
+    answer: Abundant.
+  - question: 'Which word is more positive between "aesthetic" and "artsy"?'
+    answer: Aesthetic.
+  - question: 'Which word is more positive between "agreeable" and "condescending"?'
+    answer: Agreeable.
+  - question: 'Which word is more positive between "believing" and "insisting"?'
+    answer: Believing.
+  - question: 'Which word is more positive between "brilliant" and "clever"?'
+    answer: Brilliant.
+  - question: 'Which word is more positive between "confident" and "arrogant"?'
+    answer: Confident.
+  - question: 'Which word is more positive between "constructive" and "destructive"?'
+    answer: Constructive.
+  - question: 'Which word is more positive between "forgiving" and "resenting"?'
+    answer: Forgiving.
+  - question: 'Which word is more positive between "humble" and "diffident"?'
+    answer: Humble.
+  - question: 'Which word is more positive between "helpful" and "meddling"?'
+    answer: Helpful.
